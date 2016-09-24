@@ -1,2 +1,2 @@
 # visualstudio-responsive-sass
-Visual Studio 2015 responsive website using SASS,Compass, and Susy following Lynda.com course
+Visual Studio 2015 responsive website with Gulp using SASS,Compass, and Susy following lynda.com course
