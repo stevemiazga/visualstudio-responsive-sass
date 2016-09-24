@@ -1,0 +1,26 @@
+body {
+  font: $mainFont;
+  background: $backgroundColor;
+  color: $typeDefault;
+}
+
+/*#{headings()} {
+ font: $headFont;
+ color: $headColor;
+ font-weight: $bold;
+}*/
+
+h1, h2, h3, h4, h5, h6 {
+ font: $headFont;
+ color: $headColor;
+ font-weight: $bold;
+}
+
+strong {
+  font-weight: $bold;
+}
+
+p {
+  font-weight: $thin;
+  padding-bottom: 10px;
+}
